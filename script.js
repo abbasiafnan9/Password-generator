@@ -45,6 +45,7 @@ function generatePassword (){
 }
 
 // Prompts
+// True and False statements
 function getPrompts(){
   choiceArr = [];
   characterLength =parseInt (prompt("How many characters? (8-126 characters)"))
