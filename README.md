@@ -1,5 +1,7 @@
 # Password-generator
 
+### Users can generate a random password everytime they click on the generate button.
+
 https://abbasiafnan9.github.io/Password-generator/
 
 
